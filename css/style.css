@@ -1,0 +1,29 @@
+* {
+  font-family: Dosis;
+}
+#tableBody tr {
+  color: #f0f8ff;
+}
+.boddyy{
+    background-color: black;
+}
+.hOne{
+    color: #2283d8;
+}
+@font-face {
+  font-family: Dosis;
+  src: url(../fonts/Dosis/Dosis-VariableFont_wght.ttf);
+}
+.d-mode{
+    bottom: 10%;
+    right: 0;
+    border: 2px solid #2283d8;
+    width: 90px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    background-color: transparent;
+    font-size: 1.5em;
+}
+.d-mode:hover{
+
+}
